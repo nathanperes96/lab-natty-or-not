@@ -31,7 +31,7 @@ Este projeto apresenta um vídeo de 1 minuto em que o robô BaristAI prepara um 
 - Sequência clara das etapas do café, com animações e legendas legíveis
 - Retrato de como IAs Generativas podem acelerar a prototipagem de conteúdo audiovisual
 Link para o vídeo produzido:
-[https://invideo.io/project/baristai-intergalactic-brew](https://drive.google.com/file/d/1_g2AwO2q1kE1hI58QJ9ObAMpxIRJivgQ/view?usp=drive_link)
+[LINK DO VIDEO](https://drive.google.com/file/d/1_g2AwO2q1kE1hI58QJ9ObAMpxIRJivgQ/view?usp=drive_link)
 
 💭 Reflexão (Opcional)
 Criar algo “natty” usando IA é um exercício de equilíbrio entre realismo e estilo. Por um lado, IAs geram elementos impressionantes com rapidez. Por outro, inserir personalidade — como gestos naturais do robô e legendas que soem humanas — exigiu ajustes manuais. No futuro, pretendo explorar avatares customizados e refinamento de locução para elevar ainda mais o nível de imersão.
