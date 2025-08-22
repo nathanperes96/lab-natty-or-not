@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+BaristAI Intergalactic Brew 🚀
+📒 Descrição
+Este projeto apresenta um vídeo de 1 minuto em que o robô BaristAI prepara um café intergaláctico em um cenário futurista. À esquerda, um avatar 3D minimalista gesticula e fala, e à direita ocorre uma sequência animada das quatro etapas do preparo de café: moagem, compactação, extração e vaporização do leite. O objetivo é criar um conteúdo “natty” com IAs Generativas, explorando realismo e criatividade.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+- Git e GitHub para versionamento de código-fonte
+- Copilot (IA Generativa) para criação do roteiro e storyboard
+- InVideo AI (https://ai.invideo.io/) para geração de vídeo, áudio e imagens
+- Ferramentas nativas de edição de vídeo da plataforma InVideo
+- Hashtag #LabDIONattyOrNot para efeito de rede
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+- Ideação
+- Definição do conceito: barista robô em uma cafeteria espacial
+- Pesquisa de referências estéticas e de narrativa
+- Roteiro e Storyboard
+- Uso do Copilot para estruturar falas do robô e descrever cada cena
+- Ajustes manuais no script para fluidez e clareza
+- Produção no InVideo AI
+- Criação do avatar 3D minimalista e configuração de gestos
+- Montagem das quatro cenas de preparo (moagem, compactação, extração, vaporização)
+- Inserção de transições suaves e legendas explicativas para cada etapa
+- Escolha de trilha sonora e locução automatizada
+- Exportação e Publicação
+- Renderização em 1920×1080 px a 24 fps
+- Upload do vídeo no repositório e link no README
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🚀 Resultados
+- Vídeo final com ~60 segundos, 1080p a 24 fps
+- Avatar BaristAI engajante, sincronizado com a locução
+- Sequência clara das etapas do café, com animações e legendas legíveis
+- Retrato de como IAs Generativas podem acelerar a prototipagem de conteúdo audiovisual
+Link para o vídeo produzido:
+[https://invideo.io/project/baristai-intergalactic-brew](https://drive.google.com/file/d/1_g2AwO2q1kE1hI58QJ9ObAMpxIRJivgQ/view?usp=drive_link)
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Criar algo “natty” usando IA é um exercício de equilíbrio entre realismo e estilo. Por um lado, IAs geram elementos impressionantes com rapidez. Por outro, inserir personalidade — como gestos naturais do robô e legendas que soem humanas — exigiu ajustes manuais. No futuro, pretendo explorar avatares customizados e refinamento de locução para elevar ainda mais o nível de imersão.
